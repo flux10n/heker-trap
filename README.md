@@ -36,6 +36,6 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 - [ ] **Nasa auto ketebas indexnya**
 - [ ] **Dst...**
 
-
-
+## Install tools.zip
+File yang .zip anda install secara langsung juga tidak apa - apa. Dan [sayonara](?)
 

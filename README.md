@@ -37,5 +37,5 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 - [ ] **Dst...**
 
 ## Install tools.zip
-File yang .zip anda install secara langsung juga tidak apa - apa. Dan [~ sayonara](?)
+File yang .zip anda install secara langsung juga tidak apa - apa. Dan [~sayonara](?)
 

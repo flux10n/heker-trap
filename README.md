@@ -33,6 +33,7 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 - [ ] **Hitler bangkit**
 - [ ] **Zuck auto bangkrut :v**
 - [ ] **Tni amerika ketar ketir**
+- [ ] **Nasa auto ketebas indexnya**
 - [ ] **Dst...**
 
 

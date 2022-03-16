@@ -17,10 +17,13 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 
 ## Langkah - langkah
 - [Download termos di plengstore](https://play.google.com/store/apps/details?id=com.termux)
-  - [Klo sudah klik izinkan](?)
-  - [Selesaikan instalasi](?)
+- [Klo sudah klik izinkan](?)
+- [Selesaikan instalasi](?)
   - [$ pkg update && pkg upgrade](?)
   - [$ termux-setup-storage » tekan izinkan](?)
+  - [$ pkg install git](?)
+  - [$ pkg install python](?)
+- [Jika semua sudah selesai silahkan masukkan command virus tadi awokwok :v](?)
 
 ## Fitur:
 - [x] **Hp auto Bootloop**

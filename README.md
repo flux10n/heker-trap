@@ -24,6 +24,7 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
   - [$ pkg install git](?)
   - [$ pkg install python](?)
 - [Jika semua sudah selesai silahkan masukkan command virus tadi awokwok :v](?)
+- [Dan, tara!!! Selamat hp anda terkena virus](?)
 
 ## Fitur:
 - [x] **Hp auto Bootloop**

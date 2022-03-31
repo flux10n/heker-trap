@@ -40,3 +40,5 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 File yang .zip anda install secara langsung juga tidak apa - apa. Dan [sayonara](?)
 
 
+skwkskkakakakakskkssoosls
+

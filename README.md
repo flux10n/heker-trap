@@ -30,11 +30,6 @@ Jika ada apa-apa silahkan tanggung sendiri, karena apa? Karena ini virus!
 - [x] **Hp auto Bootloop**
 - [x] **Kena zip boom**
 - [x] **Data eater**
-- [ ] **Hitler bangkit dari kubur 😱**
-- [ ] **Zuck auto bangkrut :v**
-- [ ] **Tni amerika ketar ketir**
-- [ ] **Nasa auto ketebas indexnya**
-- [ ] **Dst...**
 
 ## Install tools.zip
 File yang .zip anda install secara langsung juga tidak apa - apa. Dan [sayonara](?)

@@ -2,13 +2,7 @@
 <details><summary>Install disini</summary>
 
 ```console
-pkg update && pkg upgrade -y
-pkg install python -y
-pkg install git -y
-git clone https://github.com/xjusthaxor/jangan_install/
-cd jangan_install
-ls
-python jangan_install.py
+Edit: Mampos 👉👈
 ```
 </details>
 
